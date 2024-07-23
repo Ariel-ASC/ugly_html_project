@@ -1,0 +1,26 @@
+body{
+ background-color:black;
+}
+
+h1 {
+    color:goldenrod;
+    background-color: rgb(10, 21, 144);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 90%;
+    color:white;
+}
+
+#starters_image_div{
+ text-align: center;
+}
+
+list{
+    font-family:'Courier New', Courier, monospace;
+    font-size:90%;
+    color:white;
+}
